@@ -1,0 +1,26 @@
+{
+    "id": "3DD22522",
+    "path": "D:/IAIS/navy-2023/scraping/scraping-on-kompas.R",
+    "project_path": "scraping-on-kompas.R",
+    "type": "r_source",
+    "hash": "101280253",
+    "contents": "",
+    "dirty": false,
+    "created": 1700812850279.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "51,0",
+        "scrollLine": "31"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1700807823,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1700807823,
+    "read_only": false,
+    "read_only_alternatives": []
+}
