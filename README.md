@@ -19,7 +19,7 @@
 
 ## Author
 
-**Rohit Jain**
+**Rizki Mahjati Prie Husna**
 
 - [Profile](https://github.com/ki-ki13 "Rizki Mahjati")
 - [Email](mailto:rizkimahjati845@gmail.com?subject=Hi "Hi!")
